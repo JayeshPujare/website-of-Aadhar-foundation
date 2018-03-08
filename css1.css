@@ -1,0 +1,17 @@
+#login{background-color:rgb(200,150,100);margin:auto;border-spacing:0px;border-collapse:separate;height:300;width:430;font-size:21;}
+
+th{text-align:center;padding:15;text-decoration:none}
+
+#dnform{width:100%;background-color:#ffcc99;text-align:left;height:500;width:68%;margin:auto;border-spacing:0px;border-collapse:separate}
+
+body{background-image:url("bg.jpg");}
+
+a{text-decoration:none}
+a:link{color:#ff0000}
+a:visited{color:#002002}
+a:hover{color:#0000ff}
+.ffooter{text-align:right;font-size:30px}
+
+p,th{font-family:Segoe Print;color:#330099;text-align:left;font-style:bold;font-size:17}
+.header{text-align:center}
+#button{text-align:center}

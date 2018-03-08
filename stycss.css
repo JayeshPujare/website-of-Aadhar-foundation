@@ -1,0 +1,41 @@
+body{background-image:url("bg.jpg");}
+
+h4{font-family:Comic Sans MS;font-size:50px;height:82px;text-shadow:4px 4px rgb(255,225,0)}
+
+a{text-decoration:none}
+a:link{color:#660099}
+a:visited{color:#663333}
+a:hover{color:#cc0033;}
+
+
+#menu{width:100%;height:45;font-family:Segoe Print;background-color:#cc9966}
+
+.tdlg{text-align:left;padding:0;background-color:#fff5d0}
+
+logo{background-color:#ffffff;border-color:#fff5d0;border-collapse:separate;height:100;width:100%}
+
+p,li,th,pre{font-family:Segoe Print;color:#330099;text-align:left;font-weight:bold;font-size:18px}
+h5{font-family:Comic Sans MS;font-size:20px;color:#ff00cc}
+
+
+.box1{background-color:#ffff33}
+.box2{background-color:#99ff33;}
+.box3{background-color:#33ffff}
+
+#footer{background-color:#ff6633;font-family:Roman;height:50;text-align:right;font-size:20;}
+
+.topic{color:#ff0099;font-size:30px;font-family:Monotype Corsiva;font-style:bold;background-image:url("bg4.jpg")}
+.header{font-family:Segoe Print;font-size:20;color:#003300;background-image:url("bg5.jpg")}
+
+dt{font-family:Segoe Print;color:#330099006600;text-align:left;font-weight:bold;font-size:19px}
+dd{font-family:Segoe Print;color:#663399;text-align:left;;font-size:15px}
+
+#donate{background-color:#ccff33;font-size:30;text-align:middle;border:dashed}
+#donate{text-decoration:none}
+#donate:link{color:#cc33ff}
+#donate:visited{color:#336600}
+#donate:hover{color:#330033;font-size:35;background-color:#ff9900}
+
+.borders{border:dotted;border-color:#009900}
+#end{opacity:0.5}
+#tag{font-size:25;color:purple}

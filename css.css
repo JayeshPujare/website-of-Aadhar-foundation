@@ -1,0 +1,20 @@
+h4{font-family:Comic Sans MS;font-size:30px;height:82px;text-shadow:4px 4px rgb(255,225,0)}
+
+#header{color:#fd1685;font-size:25px;font-family:Monotype Corsiva;}
+h5{text-align:center;color:#abab99;font-family:arial;font-size:30px}
+body{background-image:url("bg.jpg");}
+a{text-decoration:none}
+a:link{color:#660099}
+a:visited{color:#990099}
+a:hover{color:#33ff00}
+pre{color:rgb(150,0,250);font-:18px;font-family:Segoe Print}
+p,li{color:#3300ff;font-size:20px;font-family:Segoe Print;}
+th{color:rgb(0,0,150)}
+#login{background-color:rgb(200,150,100);margin:auto;border-spacing:0px;border-collapse:separate;height:300;width:470;font-size:21;}
+td{text-align:center;padding:15;text-decoration:none}
+#menu{width:100%;height:40;background-color:#fa8072;font-family:Segoe Print}
+.header{font-family:Segoe Print;font-size:20;color:#ff0000}
+#dnform{width:100%;background-color:rgb(20,200,50);text-align:left}
+.topic{color:#800000;font-size:30px;font-family:Impact;}
+#tdlg{text-align:center;padding:0}
+table{background-color:#ffffff;margin:auto;border-spacing:0px;border-collapse:separate;height:50px;width:100%;font-size:21;}
